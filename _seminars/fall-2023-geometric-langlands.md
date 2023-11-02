@@ -3,7 +3,7 @@ title: "Geometric Langlands"
 collection: talks
 type: "Seminar"
 permalink: /seminars/fall-2023-geometric-langlands
-date: Fall 2023
+date: 2023-10-11
 location: "UCLA"
 ---
 
