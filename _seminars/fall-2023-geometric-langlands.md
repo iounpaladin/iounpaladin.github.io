@@ -7,7 +7,7 @@ date: 2023-10-11
 location: "UCLA"
 ---
 
-In Fall 2023, we are discussing the Geometric Langlands Correspondence. Recordings are available upon request (please contact me for more information).
+In Fall 2023, we are discussing the Geometric Langlands Correspondence.
 
 
 | Date   | Speaker                                                  | Topic                                                    | Notes |
