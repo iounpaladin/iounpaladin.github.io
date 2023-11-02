@@ -11,30 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, UCLA, 2024 (expected)
+* M.A. in Mathematics, UCLA, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2021-Present:
+  * ORMC Lead Instructor
 
 Publications
 ======
@@ -53,7 +36,38 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Organisational
+=====
+
+- Assisted with planning the participating seminar on Quiver Representations and Quiver Varieties with Sam Qunell in Spring-Summer 2023
+- Assisted with running, recording, and managing the participating seminar on Geometric Langlands with Raphaël Rouquier in Fall 2023
+
+Graduate-Level Courses
+====
+
+- Spring 2022
+  - Algebraic Topology (Math 225C)
+- Fall 2022
+  - Algebra, Course 1 (Math 210A)
+  - 2-Categorical Quiver Hecke Algebras (Math 216A)
+  - Differential Topology (Math 225A)
+- Winter 2023
+  - Reading Course on Semi-Topological K-Theory with Raphaël Rouquier (Math 197)
+  - Algebra, Course 2 (Math 210B)
+  - Homological Algebra (Math 212B)
+  - Differential Geometry (Math 225B)
+  - Participating Seminar in Number Theory, on p-Adic Geometry (Math 290B)
+  - Participating Seminar in Algebra, on Algebraic Groups (Math 290C)
+- Spring 2023
+  - Reading Course on Modular Representation Theory with Tom Gannon (Math 197)
+  - Algebra, Course 3 (Math 210C)
+  - Lie Groups, Lie Algebras, and Representations (229A)
+  - Topics in Differential Geometry (Math 234)
+  - Participating Seminar in Algebra, on Infinity-Category Theory (Math 290C)
+  - Participating Seminar in Algebra, on Quiver Representations and Quiver Varieties (Math 290C)
+- Fall 2023
+  - Algebraic Geometry, Course 1 (Math 214A)
+  - Algebraic Topology (Math 227A)
+  - Kac-Moody Algebras, Affine Lie Algebras, and Representations (Math 229A)
+  - Participating Seminar in Algebra, on [Geometric Langlands Correspondence](https://max.steinbergfour.com/seminars/fall-2023-geometric-langlands) (Math 290C)

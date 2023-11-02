@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/geometric-mckay
 excerpt: 'In preparation.'
 date: 2023-10-31
+venue: "Unpublished."
 ---
 In preparation.
