@@ -71,3 +71,12 @@ Graduate-Level Courses
   - Algebraic Topology (Math 227A)
   - Kac-Moody Algebras, Affine Lie Algebras, and Representations (Math 229A)
   - Participating Seminar in Algebra, on [Geometric Langlands Correspondence](https://max.steinbergfour.com/seminars/fall-2023-geometric-langlands) (Math 290C)
+- Winter 2024
+  - L-Functions for GL(1) (Math 205B)
+  - Algebraic Topology II (Math 227B)
+  - Functional Analysis (Math 255A)
+  - Participating Semianr in Algebraic Topology, on K-Theory
+- Spring 2024
+  - Homological Algebra (Math 212A)
+  - Geometric Representation Theory (Math 216A)
+  - Organising Participating Seminar in Algebra, on [Monstrous Moonshine Seminar](https://max.steinbergfour.com/seminars/spring-2024-monstrous-moonshine) (Math 290C)
