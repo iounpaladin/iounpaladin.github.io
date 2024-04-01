@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 Hi! My name is Max and I am a 5th year undergraduate at UCLA studying Representation Theory. We don't have advisors in undergrad at UCLA, but if we did, mine would be [Raphaël Rouquier](https://www.math.ucla.edu/~rouquier/). 
 
 # Interests
-I am interested in representation theory broadly, and in particular, higher categorical quiver representations and geometric representation theory (particularly in positive characteristic). I am currently working on a project in quiver representation theory, attempting to generalise McKay Correspondence via triality of G_2. 
+I am interested in geometric representation theory broadly, and specifically interested in the geometric Langlands programme. 
 
 # List of Resources I Like
-- [Representation Theory for Undergrads](https://max.steinbergfour.com/files/reptheory.pdf)
 - [π-base](https://topology.pi-base.org/)
+- [Magma](http://magma.maths.usyd.edu.au/magma/)
+- [ATLAS](https://brauer.maths.qmul.ac.uk/Atlas/v3/)
 
 To be expanded!
