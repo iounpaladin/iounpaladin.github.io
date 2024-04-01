@@ -7,7 +7,7 @@ date: 2024-04-03
 location: "UCLA"
 ---
 
-In Spring 2024, we are discussing Monstrous Moonshine.
+In Spring 2024, I am organising the Participating Algebra Seminar on Monstrous Moonshine.
 
 
 | Date   | Speaker                                                  | Topic (Recording)                                                                                       | Notes                                                                                   | 
