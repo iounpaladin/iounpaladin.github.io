@@ -10,4 +10,4 @@ location: "Los Angeles, California"
 
 I organised the UCLA Participating Algebra Seminar in Spring 2024. We discussed Monstrous Moonshine, and I introduced the seminar by giving a broad description of the pieces in Moonshine and how they fit together.
 
-Notes are available [here](https://max.steinbergfour.com/files/moonshine.pdf). The talk was recorded and can be viewed [here]().
+Notes are available [here](https://max.steinbergfour.com/files/moonshine.pdf). The talk was recorded and can be viewed [here](https://www.youtube.com/watch?v=VkaKgoDZqHo).
