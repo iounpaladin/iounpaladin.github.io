@@ -51,7 +51,7 @@ Graduate-Level Courses
   - Algebraic Topology (Math 225C)
 - Fall 2022
   - Algebra, Course 1 (Math 210A)
-  - 2-Categorical Quiver Hecke Algebras (Math 216A)
+  - 2-Representations of Lie Algebras (Math 216A)
   - Differential Topology (Math 225A)
 - Winter 2023
   - Reading Course on Semi-Topological K-Theory with Raphaël Rouquier (Math 197)
@@ -76,7 +76,7 @@ Graduate-Level Courses
   - L-Functions for GL(1) (Math 205B)
   - Algebraic Topology II (Math 227B)
   - Functional Analysis (Math 255A)
-  - Participating Semianr in Algebraic Topology, on K-Theory
+  - Participating Seminar in Algebraic Topology, on K-Theory
 - Spring 2024
   - Homological Algebra (Math 212A)
   - Geometric Representation Theory (Math 216A)
