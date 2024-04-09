@@ -42,6 +42,7 @@ Organisational
 
 - Assisted with planning the participating seminar on Quiver Representations and Quiver Varieties with Sam Qunell in Spring-Summer 2023
 - Assisted with running, recording, and managing the participating seminar on Geometric Langlands with Raphaël Rouquier in Fall 2023
+- Organised the participating seminar on Monstrous Moonshine with Sam Qunell in Spring 2024
 
 Graduate-Level Courses
 ====
@@ -79,4 +80,4 @@ Graduate-Level Courses
 - Spring 2024
   - Homological Algebra (Math 212A)
   - Geometric Representation Theory (Math 216A)
-  - Organising Participating Seminar in Algebra, on [Monstrous Moonshine Seminar](https://max.steinbergfour.com/seminars/spring-2024-monstrous-moonshine) (Math 290C)
+  - Organising Participating Seminar in Algebra, on [Monstrous Moonshine](https://max.steinbergfour.com/seminars/spring-2024-monstrous-moonshine) (Math 290C)
