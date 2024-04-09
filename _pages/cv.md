@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, UCLA, 2024 (expected)
-* M.A. in Mathematics, UCLA, 2024 (expected)
+* B.S. in Mathematics, UCLA, 2024
+* M.A. in Mathematics, UCLA, 2024
+* Ph.D. in Mathematics, Yale University, 2029 (expected)
 
 Work experience
 ======
