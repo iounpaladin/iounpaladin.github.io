@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, UCLA, 2024
-* M.A. in Mathematics, UCLA, 2024
 * Ph.D. in Mathematics, Yale University, 2029 (expected)
+* M.A. in Mathematics, UCLA, 2024
+* B.S. in Mathematics, UCLA, 2024
 
 Work experience
 ======
-* Aug 2021-Present:
+* Aug 2024-Present:
+  * Teaching at Yale University
+    * Fall 2024: TA for Math 120 (multivariable calculus)
+* Aug 2021-June 2024:
   * ORMC Lead Instructor
 
 Publications
@@ -41,12 +44,20 @@ Teaching
 Organisational
 =====
 
-- Assisted with planning the participating seminar on Quiver Representations and Quiver Varieties with Sam Qunell in Spring-Summer 2023
-- Assisted with running, recording, and managing the participating seminar on Geometric Langlands with Raphaël Rouquier in Fall 2023
+- GSAC (Graduate Student Advisory Committee) Representative, Yale University, September 2024-Present
 - Organised the participating seminar on Monstrous Moonshine with Sam Qunell in Spring 2024
+- Assisted with running, recording, and managing the participating seminar on Geometric Langlands with Raphaël Rouquier in Fall 2023
+- Assisted with planning the participating seminar on Quiver Representations and Quiver Varieties with Sam Qunell in Spring-Summer 2023
+
 
 Graduate-Level Courses
 ====
+Yale:
+- Fall 2024
+  - Topics in Quantum Algebra (Math 665)
+  - Topics in Representation Theory (Math 685)
+
+UCLA:
 - Spring 2024
   - Homological Algebra (Math 212A)
   - Geometric Representation Theory (Math 216A)
