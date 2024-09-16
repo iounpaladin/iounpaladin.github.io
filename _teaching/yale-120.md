@@ -1,9 +1,9 @@
 ---
 title: "Math 120"
 collection: teaching
-type: "Yale University"
+type: "Coaching"
 permalink: /teaching/math-120-fall-2024
-venue: "UCLA"
+venue: "Yale University"
 date: 2024-09-04
 ---
 
