@@ -19,7 +19,7 @@ Work experience
 ======
 * Aug 2024-Present:
   * Teaching at Yale University
-    * Fall 2024: TA for Math 120 (multivariable calculus)
+    * Fall 2024: TA for [Math 120](https://max.steinbergfour.com/teaching/math-120-fall-2024) (multivariable calculus)
 * Aug 2021-June 2024:
   * ORMC Lead Instructor
 
