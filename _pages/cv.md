@@ -23,7 +23,7 @@ Work experience
 * Aug 2021-June 2024:
   * ORMC Lead Instructor
 
-Publications
+Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
