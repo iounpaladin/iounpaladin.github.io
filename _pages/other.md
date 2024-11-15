@@ -24,7 +24,7 @@ Mute Swam.
 
 Juvenile Red-Tailed Hawk.
 
-![image](/images/4.JPG)
+![image](/images/4.jpg)
 
 Great Blue Heron with a snack.
 
@@ -44,11 +44,11 @@ Snowy Egret.
 
 Great Black-Backed Gull.
 
-![image](/images/9.JPG)
+![image](/images/9.jpg)
 
 Great Egret preening.
 
-![image](/images/10.JPG)
+![image](/images/10.jpg)
 
 Song Sparrow.
 
