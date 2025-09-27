@@ -17,9 +17,12 @@ Education
 
 Work experience
 ======
+* Yale Certificate of College Teaching Preparation
+  * In Progress (Fall 2025)
 * Aug 2024-Present:
   * Teaching at Yale University
     * Fall 2024: TA for [Math 120](https://max.steinbergfour.com/teaching/math-120-fall-2024) (multivariable calculus)
+    * Fall 2025: TA for [Math 2250](https://max.steinbergfour.com/teaching/math-2250-fall-2025) (proof-based linear algebra)
 * Aug 2021-June 2024:
   * ORMC Lead Instructor
 
